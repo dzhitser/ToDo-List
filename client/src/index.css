@@ -1,7 +1,18 @@
-h1 {
+h3 {
   color: white;
   background-color: #e594eb;
   padding: 6px 0 2px 0;
   margin-bottom: 10px;
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+
+.but-inp{
+  display: inline-flex;
+}
+
+ul li {
+  margin-left: 10px;
+  
+  font-size: 18px;
 }
